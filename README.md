@@ -37,3 +37,5 @@ React Dashboard
 - Docker
 - GitHub Actions
 - Azure
+
+## Project Structure

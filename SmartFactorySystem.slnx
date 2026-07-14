@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SmartFactory.Api/SmartFactory.Api.csproj" />
+  <Project Path="SmartFactory.Application/SmartFactory.Application.csproj" />
+  <Project Path="SmartFactory.Domain/SmartFactory.Domain.csproj" />
+  <Project Path="SmartFactory.Infrastructure/SmartFactory.Infrastructure.csproj" />
+  <Project Path="SmartFactory.Tests/SmartFactory.Tests.csproj" />
+</Solution>
